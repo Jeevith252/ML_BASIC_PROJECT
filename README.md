@@ -10,3 +10,9 @@ Worked with Breast_cancer Dataset and Customer Churn Dataset
 Firstly Applieed all the model training on to the bith dataset and the calculated the accuracy of the models 
 
 At last compared All the accuracy of the models
+
+
+
+Encoding ..
+
+Learnt how to convert categorical data into numerical data using Label encoding and One hot encoding
