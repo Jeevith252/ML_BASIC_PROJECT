@@ -1,18 +1,34 @@
-# ML_BASIC_PROJECT
+#  Machine Learning Model Training & Encoding
 
-## Learings...
+##  Overview
+This repository contains my practice on training Machine Learning models and applying encoding techniques for categorical data.
 
-Learnt how to train a model using Random Forest , XGBoost And LightGBM models
+## 📂 Datasets
+- Breast Cancer Dataset
+- Customer Churn Dataset
 
+##  Models Used
+- Random Forest
+- XGBoost
+- LightGBM
 
-Worked with Breast_cancer Dataset and Customer Churn Dataset
+##  Encoding Techniques
+- Label Encoding
+- One-Hot Encoding
 
-Firstly Applieed all the model training on to the bith dataset and the calculated the accuracy of the models 
+##  What I Learned
+- Trained Random Forest, XGBoost, and LightGBM models.
+- Evaluated and compared model accuracy.
+- Learned how to convert categorical data into numerical data using Label Encoding and One-Hot Encoding.
+- Understood the basic machine learning workflow from preprocessing to model evaluation.
 
-At last compared All the accuracy of the models
+##  Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- LightGBM
+- Google Colab
 
-
-
-Encoding ..
-
-Learnt how to convert categorical data into numerical data using Label encoding and One hot encoding
+---
